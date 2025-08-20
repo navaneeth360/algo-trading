@@ -32,15 +32,6 @@ The framework is modular, making it easy to add new strategies, evaluate perform
   - Stock price with strategy signals  
   - Technical indicators (moving averages, RSI, Bollinger bands, etc.)  
 
-## Installation
-
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/your-username/algotrading-strategies.git
-cd algotrading-strategies
-pip install -r requirements.txt
-```
 
 N V Navaneeth Rajesh
 (22b1215)
